@@ -65,11 +65,11 @@ body {
 }
 #button {
   position: absolute;
-  top: 100%;
+  top: 50%;
 }
 #btn {
   position: absolute;
-  top: 100%;
+  top: 70%;
 }
 button:hover {
   transform: scale(1.03);
@@ -78,7 +78,7 @@ button:hover {
 }
 button {
   height: 50px;
-  width: 100px;
+  width: 150px;
   border-radius: 10px;
   font-weight: bold;
   background: #00ae7d;
